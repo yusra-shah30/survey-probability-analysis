@@ -12,7 +12,7 @@ This project calculates the probability of different answer choices appearing in
 It helps identify majority patterns and opinion distributions using probability formulas in Excel.
 
 ## Google Spreadsheet Link
-( Paste your Google Sheet link here )
+https://docs.google.com/spreadsheets/d/1ybyK2AIHMNef2OBWUMvv2TjAmiQebutcag52lgjn1Gs/edit?usp=sharing
 
 ## Daily Progress Log
 
