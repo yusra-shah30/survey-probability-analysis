@@ -52,3 +52,10 @@ https://docs.google.com/spreadsheets/d/1ybyK2AIHMNef2OBWUMvv2TjAmiQebutcag52lgjn
 - Improved spreadsheet formatting (borders, bold headings, correct percent format).
 - Verified calculations and updated charts for improved presentation.
 - Updated Google Spreadsheet and GitHub README with Day 5 progress.
+- ### Day 6 (15-05-2026)
+- Created conditional probability table for Weekly users using COUNTIFS formulas.
+- Calculated P(Answer | Weekly) and percentage distribution.
+- Compared conditional probability results of Daily vs Weekly users.
+- Verified total probability equals 1 for Weekly condition.
+- Updated analysis sheet and ensured correct formatting.
+- Updated Google Spreadsheet and GitHub README with Day 6 progress.
