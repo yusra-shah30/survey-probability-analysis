@@ -45,3 +45,10 @@ https://docs.google.com/spreadsheets/d/1ybyK2AIHMNef2OBWUMvv2TjAmiQebutcag52lgjn
 - Updated pie chart to show percentage labels for better visualization.
 - Wrote summary findings showing most selected and least selected survey option.
 - Updated Google Spreadsheet and GitHub README with Day 4 progress.
+- ### Day 5 (14-05-2026)
+- Added an extra column "Usage Frequency" in Survey Data for conditional probability analysis.
+- Calculated conditional probability based on Daily users using COUNTIFS formulas.
+- Created a new conditional probability summary table in Analysis sheet.
+- Improved spreadsheet formatting (borders, bold headings, correct percent format).
+- Verified calculations and updated charts for improved presentation.
+- Updated Google Spreadsheet and GitHub README with Day 5 progress.
