@@ -38,3 +38,10 @@ https://docs.google.com/spreadsheets/d/1ybyK2AIHMNef2OBWUMvv2TjAmiQebutcag52lgjn
 - Created pie chart and bar chart for visualization of majority patterns.
 - Identified most selected and least selected answer choice.
 - Updated Google Spreadsheet and GitHub README with Day 3 progress.
+- ### Day 4 (13-05-2026)
+- Verified frequency and probability calculations after dataset expansion.
+- Confirmed total probability equals 1 and total percentage equals 100%.
+- Created bar chart for frequency comparison of each answer choice.
+- Updated pie chart to show percentage labels for better visualization.
+- Wrote summary findings showing most selected and least selected survey option.
+- Updated Google Spreadsheet and GitHub README with Day 4 progress.
