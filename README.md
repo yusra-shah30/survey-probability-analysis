@@ -30,3 +30,11 @@ https://docs.google.com/spreadsheets/d/1ybyK2AIHMNef2OBWUMvv2TjAmiQebutcag52lgjn
 - Calculated probability of each option using Frequency / Total Responses.
 - Created pie chart to show opinion distribution and majority pattern.
 - Updated Google spreadsheet and GitHub README with Day 2 progress.
+### Day 3 (18-05-2026)
+- Extended survey dataset by adding more responses for better accuracy.
+- Updated analysis formulas according to new dataset size.
+- Verified frequency calculations using COUNTIF.
+- Updated probability and percentage table for answer distribution.
+- Created pie chart and bar chart for visualization of majority patterns.
+- Identified most selected and least selected answer choice.
+- Updated Google Spreadsheet and GitHub README with Day 3 progress.
