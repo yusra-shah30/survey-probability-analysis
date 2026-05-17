@@ -23,3 +23,10 @@ https://docs.google.com/spreadsheets/d/1ybyK2AIHMNef2OBWUMvv2TjAmiQebutcag52lgjn
 - Created GitHub public repository.
 - Added project title and description in README.md.
 - Sent GitHub collaborator invite to teacher (syedhydermahadi@gmail.com).
+### Day 2 (11-05-2026)
+- Created "Survey Data" sheet and entered sample survey responses.
+- Created "Analysis" sheet for probability calculations.
+- Used COUNTIF formula to calculate frequency of each answer choice.
+- Calculated probability of each option using Frequency / Total Responses.
+- Created pie chart to show opinion distribution and majority pattern.
+- Updated Google spreadsheet and GitHub README with Day 2 progress.
