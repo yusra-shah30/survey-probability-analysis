@@ -59,3 +59,10 @@ https://docs.google.com/spreadsheets/d/1ybyK2AIHMNef2OBWUMvv2TjAmiQebutcag52lgjn
 - Verified total probability equals 1 for Weekly condition.
 - Updated analysis sheet and ensured correct formatting.
 - Updated Google Spreadsheet and GitHub README with Day 6 progress.
+### Day 7 (16-05-2026)
+- Created comparison summary between conditional probability results of Daily and Weekly users.
+- Added comparison table showing probability differences for each answer choice.
+- Wrote interpretation notes explaining majority patterns and trends.
+- Created combined bar chart to compare Daily vs Weekly distribution.
+- Verified calculations and corrected formatting issues in analysis sheet.
+- Updated Google Spreadsheet and GitHub README with Day 7 progress.
