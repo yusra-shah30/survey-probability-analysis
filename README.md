@@ -66,3 +66,9 @@ https://docs.google.com/spreadsheets/d/1ybyK2AIHMNef2OBWUMvv2TjAmiQebutcag52lgjn
 - Created combined bar chart to compare Daily vs Weekly distribution.
 - Verified calculations and corrected formatting issues in analysis sheet.
 - Updated Google Spreadsheet and GitHub README with Day 7 progress.
+- ### Day 8 (17-05-2026)
+- Prepared final project report structure including summary and conclusion section.
+- Added final summary statistics such as total responses, highest probability option, and lowest probability option.
+- Organized all charts (pie chart, bar chart, comparison chart) in analysis sheet for final presentation.
+- Added final findings and conclusion notes in spreadsheet.
+- Updated Google Spreadsheet and GitHub README with Day 8 progress.
