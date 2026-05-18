@@ -72,3 +72,10 @@ https://docs.google.com/spreadsheets/d/1ybyK2AIHMNef2OBWUMvv2TjAmiQebutcag52lgjn
 - Organized all charts (pie chart, bar chart, comparison chart) in analysis sheet for final presentation.
 - Added final findings and conclusion notes in spreadsheet.
 - Updated Google Spreadsheet and GitHub README with Day 8 progress.
+### Day 9 (18-05-2026)
+- Verified the accuracy of survey dataset and corrected any spelling inconsistencies.
+- Rechecked all formulas for frequency, probability, percentage, and conditional probability.
+- Verified totals (probability sum = 1 and percentage sum = 100).
+- Added discussion and recommendations section in analysis sheet.
+- Improved formatting and presentation with proper headings and table borders.
+- Updated GitHub README and ensured Google Spreadsheet link is working properly.
