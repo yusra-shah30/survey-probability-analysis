@@ -116,29 +116,6 @@ https://docs.google.com/spreadsheets/d/1ybyK2AIHMNef2OBWUMvv2TjAmiQebutcag52lgjn
 - Verified formulas, totals, spreadsheet sharing permissions, and GitHub repository README for final submission.
 
 
-**Survey Probability Analysis of Preferred Social Media App**
-
----
-
-## 👤 Student Information
-- **Name:** Yusra Jan  
-- **Tool Used:** Google Sheets / Microsoft Excel  
-- **Project Type:** Survey Data Probability Analysis  
-
----
-
-## 🎯 Project Objective
-The objective of this project is to analyze survey responses using probability concepts.  
-This project calculates:
-- Frequency of responses
-- Probability distribution
-- Percentage distribution
-- Conditional probability (Daily vs Weekly users)
-- Expected value prediction (out of 100)
-- Simulation-based probability analysis (novelty)
-
----
-
 
 
 ## 🧮 Methods and Formulas Used
