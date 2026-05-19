@@ -1,15 +1,41 @@
-# survey-probability-analysis
-This project analyzes survey data using basic probability concepts in Microsoft Excel. It focuses on organizing survey responses, calculating the probability of different outcomes, and identifying trends based on participant answers to draw meaningful conclusions.
-# Survey Probability Analysis (Excel Project)
+ # Survey Probability Analysis (Excel / Google Sheets Project)
 
-## Student Information
-- Name: Yusra Jan
-- Project: Survey Probability Analysis
-- Tool: Microsoft Excel / Google Sheets
+## 📌 Project Title
+**Survey Probability Analysis of Preferred Social Media App**
 
-## Project Description
-This project calculates the probability of different answer choices appearing in survey data.  
-It helps identify majority patterns and opinion distributions using probability formulas in Excel.
+---
+
+## 👤 Student Information
+- **Name:** Yusra Jan  
+- **Tool Used:** Google Sheets / Microsoft Excel  
+- **Project Type:** Survey Data Probability Analysis  
+
+---
+
+## 🎯 Project Objective
+The objective of this project is to analyze survey responses using probability concepts.  
+This project calculates:
+- Frequency of responses
+- Probability distribution
+- Percentage distribution
+- Conditional probability (Daily vs Weekly users)
+- Expected value prediction (out of 100)
+- Simulation-based probability analysis (novelty)
+
+---
+
+## 📊 Dataset Description
+A survey dataset of **60 respondents** was created using the following question:
+
+**Question:** Preferred Social Media App  
+**Options:** Instagram, YouTube, TikTok, Facebook  
+
+An additional column was included:
+- **Usage Frequency:** Daily / Weekly  
+
+This dataset helps identify majority patterns and user preference trends.
+
+---
 
 ## Google Spreadsheet Link
 https://docs.google.com/spreadsheets/d/1ybyK2AIHMNef2OBWUMvv2TjAmiQebutcag52lgjn1Gs/edit?usp=sharing
@@ -89,4 +115,128 @@ https://docs.google.com/spreadsheets/d/1ybyK2AIHMNef2OBWUMvv2TjAmiQebutcag52lgjn
 - Added final conclusion and recommendation section in Analysis sheet.
 - Verified formulas, totals, spreadsheet sharing permissions, and GitHub repository README for final submission.
 
-- 
+
+**Survey Probability Analysis of Preferred Social Media App**
+
+---
+
+## 👤 Student Information
+- **Name:** Yusra Jan  
+- **Tool Used:** Google Sheets / Microsoft Excel  
+- **Project Type:** Survey Data Probability Analysis  
+
+---
+
+## 🎯 Project Objective
+The objective of this project is to analyze survey responses using probability concepts.  
+This project calculates:
+- Frequency of responses
+- Probability distribution
+- Percentage distribution
+- Conditional probability (Daily vs Weekly users)
+- Expected value prediction (out of 100)
+- Simulation-based probability analysis (novelty)
+
+---
+
+
+
+## 🧮 Methods and Formulas Used
+
+### 1) Frequency Calculation (COUNTIF)
+Frequency was calculated using:
+
+`=COUNTIF(range,"Option")`
+
+Example:
+
+`=COUNTIF('Survey Data'!C2:C61,"Instagram")`
+
+---
+
+### 2) Probability Calculation
+Probability was calculated using:
+
+**Probability = Frequency / Total Responses**
+
+Formula example:
+
+`=B2/SUM($B$2:$B$5)`
+
+---
+
+### 3) Percentage Calculation
+Percentage was calculated using:
+
+`=Probability*100`
+
+Example:
+
+`=C2*100`
+
+---
+
+### 4) Conditional Probability (COUNTIFS)
+Conditional probability was calculated using:
+
+`=COUNTIFS(AnswerRange,"Instagram",UsageRange,"Daily")`
+
+Example:
+
+`=COUNTIFS('Survey Data'!C2:C61,"Instagram",'Survey Data'!D2:D61,"Daily")`
+
+---
+
+### 5) Expected Value Prediction (Novelty Feature)
+Expected value predicts expected users out of 100 respondents:
+
+**Expected Value = Probability × 100**
+
+Example:
+
+`=Probability*100`
+
+---
+
+### 6) Random Simulation (Novelty Feature)
+A simulation was created using:
+
+`=INDEX({"Instagram","YouTube","TikTok","Facebook"},RANDBETWEEN(1,4))`
+
+This generates random responses and compares simulated probability distribution with real survey results.
+
+---
+
+## 📈 Charts and Visualizations
+The following charts were created:
+- **Pie Chart** (Overall Distribution)
+- **Bar Chart** (Frequency Comparison)
+- **Daily vs Weekly Comparison Chart**
+- **Dashboard Sheet** (Final Summary)
+
+---
+
+## 🏆 Key Results
+- **Most Selected App:** Instagram  
+- **Least Selected App:** Facebook  
+- **Major Trend:** Daily users show stronger preference for Instagram compared to Weekly users.
+
+---
+
+## ✅ Final Conclusion
+The survey probability analysis shows that **Instagram is the most preferred social media platform** with the highest frequency and probability value.  
+**YouTube and TikTok** have moderate probabilities and remain strong competitors.  
+**Facebook has the lowest probability** and is the least preferred platform in the dataset.
+
+Conditional probability analysis confirms that **Daily users prefer Instagram more strongly** than Weekly users.  
+Simulation results also support the same trend, validating the probability distribution.
+
+---
+
+## 📌 Final Recommendation
+Based on probability distribution, conditional probability, and simulation results, **Instagram is recommended as the best platform for marketing, awareness campaigns, and audience engagement strategies**.
+
+---
+## 📌 Project Status
+✅ Project Completed Successfully  
+✅ Final Submission Ready  
