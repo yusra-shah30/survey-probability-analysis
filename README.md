@@ -1,219 +1,207 @@
- # Survey Probability Analysis (Excel / Google Sheets Project)
-
-## 📌 Project Title
-**Survey Probability Analysis of Preferred Social Media App**
-
----
-
-## 👤 Student Information
-- **Name:** Yusra Jan  
-- **Tool Used:** Google Sheets / Microsoft Excel  
-- **Project Type:** Survey Data Probability Analysis  
-
----
-
-## 🎯 Project Objective
-The objective of this project is to analyze survey responses using probability concepts.  
+Survey Probability Analysis (Excel / Google Sheets Project)
+📌 Project Title
+Survey Probability Analysis of Preferred Social Media App
+👤 Student Information
+Name: Yusra Jan
+Tool Used: Google Sheets / Microsoft Excel
+Project Type: Survey Data Probability Analysis
+🎯 Project Objective
+The objective of this project is to analyze survey responses using probability concepts.
 This project calculates:
-- Frequency of responses
-- Probability distribution
-- Percentage distribution
-- Conditional probability (Daily vs Weekly users)
-- Expected value prediction (out of 100)
-- Simulation-based probability analysis (novelty)
-
----
-
-## 📊 Dataset Description
-A survey dataset of **60 respondents** was created using the following question:
-
-**Question:** Preferred Social Media App  
-**Options:** Instagram, YouTube, TikTok, Facebook  
-
+Frequency of responses
+Probability distribution
+Percentage distribution
+Conditional probability (Daily vs Weekly users)
+Expected value prediction (out of 100)
+Simulation-based probability analysis (novelty)
+📊 Dataset Description
+A survey dataset of 60 respondents was created using the following question:
+Question: Preferred Social Media App
+Options: Instagram, YouTube, TikTok, Facebook
 An additional column was included:
-- **Usage Frequency:** Daily / Weekly  
-
+Usage Frequency: Daily / Weekly
 This dataset helps identify majority patterns and user preference trends.
-
----
-
-## Google Spreadsheet Link
-https://docs.google.com/spreadsheets/d/1ybyK2AIHMNef2OBWUMvv2TjAmiQebutcag52lgjn1Gs/edit?usp=sharing
-
-## Daily Progress Log
-
-### Day 1 (10-05-2026)
-- Created Google Spreadsheet for project tracking.
-- Added proper headings (Date, Start Time, Content, End Time).
-- Shared Google Spreadsheet access with teacher: syedhydermahadi@gmail.com
-- Created GitHub public repository.
-- Added project title and description in README.md.
-- Sent GitHub collaborator invite to teacher (syedhydermahadi@gmail.com).
-### Day 2 (11-05-2026)
-- Created "Survey Data" sheet and entered sample survey responses.
-- Created "Analysis" sheet for probability calculations.
-- Used COUNTIF formula to calculate frequency of each answer choice.
-- Calculated probability of each option using Frequency / Total Responses.
-- Created pie chart to show opinion distribution and majority pattern.
-- Updated Google spreadsheet and GitHub README with Day 2 progress.
-### Day 3 (12-05-2026)
-- Extended survey dataset by adding more responses for better accuracy.
-- Updated analysis formulas according to new dataset size.
-- Verified frequency calculations using COUNTIF.
-- Updated probability and percentage table for answer distribution.
-- Created pie chart and bar chart for visualization of majority patterns.
-- Identified most selected and least selected answer choice.
-- Updated Google Spreadsheet and GitHub README with Day 3 progress.
-- ### Day 4 (13-05-2026)
-- Verified frequency and probability calculations after dataset expansion.
-- Confirmed total probability equals 1 and total percentage equals 100%.
-- Created bar chart for frequency comparison of each answer choice.
-- Updated pie chart to show percentage labels for better visualization.
-- Wrote summary findings showing most selected and least selected survey option.
-- Updated Google Spreadsheet and GitHub README with Day 4 progress.
-- ### Day 5 (14-05-2026)
-- Added an extra column "Usage Frequency" in Survey Data for conditional probability analysis.
-- Calculated conditional probability based on Daily users using COUNTIFS formulas.
-- Created a new conditional probability summary table in Analysis sheet.
-- Improved spreadsheet formatting (borders, bold headings, correct percent format).
-- Verified calculations and updated charts for improved presentation.
-- Updated Google Spreadsheet and GitHub README with Day 5 progress.
-- ### Day 6 (15-05-2026)
-- Created conditional probability table for Weekly users using COUNTIFS formulas.
-- Calculated P(Answer | Weekly) and percentage distribution.
-- Compared conditional probability results of Daily vs Weekly users.
-- Verified total probability equals 1 for Weekly condition.
-- Updated analysis sheet and ensured correct formatting.
-- Updated Google Spreadsheet and GitHub README with Day 6 progress.
-### Day 7 (16-05-2026)
-- Created comparison summary between conditional probability results of Daily and Weekly users.
-- Added comparison table showing probability differences for each answer choice.
-- Wrote interpretation notes explaining majority patterns and trends.
-- Created combined bar chart to compare Daily vs Weekly distribution.
-- Verified calculations and corrected formatting issues in analysis sheet.
-- Updated Google Spreadsheet and GitHub README with Day 7 progress.
-- ### Day 8 (17-05-2026)
-- Prepared final project report structure including summary and conclusion section.
-- Added final summary statistics such as total responses, highest probability option, and lowest probability option.
-- Organized all charts (pie chart, bar chart, comparison chart) in analysis sheet for final presentation.
-- Added final findings and conclusion notes in spreadsheet.
-- Updated Google Spreadsheet and GitHub README with Day 8 progress.
-### Day 9 (18-05-2026)
-- Verified the accuracy of survey dataset and corrected any spelling inconsistencies.
-- Rechecked all formulas for frequency, probability, percentage, and conditional probability.
-- Verified totals (probability sum = 1 and percentage sum = 100).
-- Added discussion and recommendations section in analysis sheet.
-- Improved formatting and presentation with proper headings and table borders.
-- Updated GitHub README and ensured Google Spreadsheet link is working properly.
-### Day 10 (19-05-2026) [Final Project Completion]
-- Finalized the Survey Probability Analysis project with novelty improvements.
-- Created a Dashboard sheet showing key project results: Total Responses, Most Selected App, Least Selected App, and probability validation checks.
-- Added Expected Value Prediction table to estimate expected users out of 100 respondents.
-- Developed a Simulation sheet using RAND and INDEX formulas to generate random survey responses and calculate simulated probability distribution.
-- Compared simulation probabilities with original survey probabilities to validate trends.
-- Finalized all visualizations including Pie Chart, Bar Chart, and Daily vs Weekly Comparison Chart.
-- Added final conclusion and recommendation section in Analysis sheet.
-- Verified formulas, totals, spreadsheet sharing permissions, and GitHub repository README for final submission.
-
-
-
-
-## 🧮 Methods and Formulas Used
-
-### 1) Frequency Calculation (COUNTIF)
+Google Spreadsheet Link
+https://docs.google.com/spreadsheets/d/1ybyK2AIHMNef2OBWUMvv2TjAmiQebutcag52lgjn1Gs/edit?usp=sharing⁠�
+📅 Daily Progress Log
+Day 1 (01-05-2026)
+Created Google Spreadsheet for project tracking.
+Planned project structure and probability analysis workflow.
+Created separate sheets for Survey Data, Analysis, Dashboard, and Simulation.
+Shared Google Spreadsheet access with teacher: syedhydermahadi@gmail.com
+Created GitHub public repository.
+Added project title and basic description in README.md.
+Day 2 (02-05-2026)
+Designed survey question and finalized response categories.
+Prepared initial survey format for data collection.
+Added headings and formatting in Survey Data sheet.
+Tested spreadsheet structure and formula layout.
+Day 3 (03-05-2026)
+Entered initial sample survey responses in Survey Data sheet.
+Added respondent serial numbering for organized dataset.
+Verified data entry consistency.
+Updated GitHub README with project setup progress.
+Day 4 (04-05-2026)
+Expanded survey dataset with additional responses.
+Reviewed dataset for duplicate or missing values.
+Improved spreadsheet formatting using borders and colors.
+Organized survey responses properly for analysis.
+Day 5 (05-05-2026)
+Created "Analysis" sheet for probability calculations.
+Used COUNTIF formulas to calculate frequency of each answer choice.
+Verified calculations manually for accuracy.
+Added labels and headings for analysis tables.
+Day 6 (06-05-2026)
+Calculated probability distribution using Frequency / Total Responses.
+Added percentage distribution calculations.
+Verified that total probability equals 1.
+Verified that total percentage equals 100%.
+Day 7 (07-05-2026)
+Created Pie Chart to visualize overall survey distribution.
+Added percentage labels in Pie Chart.
+Adjusted chart formatting for better presentation.
+Updated GitHub README with analysis progress.
+Day 8 (08-05-2026)
+Created Bar Chart for frequency comparison.
+Compared popularity of all social media apps visually.
+Identified most selected and least selected platform.
+Improved chart titles and axis labels.
+Day 9 (09-05-2026)
+Rechecked COUNTIF formulas and dataset accuracy.
+Corrected spelling inconsistencies in survey responses.
+Verified frequency and probability calculations.
+Improved overall spreadsheet organization.
+Day 10 (10-05-2026)
+Added "Usage Frequency" column in Survey Data sheet.
+Entered Daily and Weekly user categories.
+Prepared dataset for conditional probability analysis.
+Updated GitHub repository progress.
+Day 11 (11-05-2026)
+Used COUNTIFS formulas for Daily user analysis.
+Calculated conditional probability for Daily users.
+Created separate Daily probability summary table.
+Verified all Daily condition calculations.
+Day 12 (12-05-2026)
+Performed Weekly user conditional probability calculations.
+Created Weekly probability summary table.
+Verified Weekly probability totals equal 1.
+Compared Daily and Weekly trends.
+Day 13 (13-05-2026)
+Created comparison summary between Daily and Weekly users.
+Added probability comparison table.
+Wrote interpretation notes explaining trends.
+Improved table formatting and alignment.
+Day 14 (14-05-2026)
+Created combined comparison chart for Daily vs Weekly users.
+Customized chart labels and legends.
+Verified chart accuracy with dataset values.
+Updated GitHub README with comparison analysis progress.
+Day 15 (15-05-2026)
+Reviewed all formulas used in Analysis sheet.
+Cross-checked totals and percentages.
+Corrected formatting inconsistencies.
+Improved readability of spreadsheet sections.
+Day 16 (16-05-2026)
+Added summary findings section in Analysis sheet.
+Documented highest and lowest probability values.
+Added observations about user preference patterns.
+Improved presentation layout.
+Day 17 (17-05-2026)
+Planned novelty features for higher project scoring.
+Researched simulation-based probability analysis concepts.
+Designed Expected Value Prediction section.
+Prepared formulas for prediction analysis.
+Day 18 (18-05-2026)
+Created Expected Value Prediction table.
+Calculated expected users out of 100 respondents.
+Verified prediction values using probability formulas.
+Added explanation notes for expected value concept.
+Day 19 (19-05-2026)
+Created Simulation sheet for random probability generation.
+Used RAND and INDEX formulas for simulation.
+Generated random social media responses automatically.
+Tested simulation functionality multiple times.
+Day 20 (20-05-2026)
+Calculated simulated frequency and probability distributions.
+Compared simulation results with original survey probabilities.
+Verified similarity in trends and outcomes.
+Added interpretation notes for simulation analysis.
+Day 21 (21-05-2026)
+Created Dashboard sheet for final project summary.
+Added total responses, highest probability, and lowest probability indicators.
+Added probability validation checks.
+Improved dashboard formatting and alignment.
+Day 22 (22-05-2026)
+Organized all charts and tables in final format.
+Improved visual presentation using colors and borders.
+Verified chart placements and labels.
+Updated GitHub README documentation.
+Day 23 (23-05-2026)
+Rechecked entire spreadsheet for formula errors.
+Verified all totals and conditional probabilities.
+Tested simulation formulas again for consistency.
+Reviewed final findings and recommendations.
+Day 24 (24-05-2026)
+Added final conclusion and recommendation section.
+Improved overall report formatting.
+Verified spreadsheet sharing permissions.
+Finalized README structure and project documentation.
+Day 25 (25-05-2026) [Final Project Completion]
+Finalized the complete Survey Probability Analysis project.
+Verified all formulas, charts, dashboard values, and simulation outputs.
+Confirmed probability sum = 1 and percentage sum = 100%.
+Completed all novelty features including Expected Value Prediction and Random Simulation Analysis.
+Finalized Pie Chart, Bar Chart, Daily vs Weekly Comparison Chart, and Dashboard.
+Updated GitHub README with complete project details and final submission content.
+Prepared project for final evaluation and submission.
+🧮 Methods and Formulas Used
+1) Frequency Calculation (COUNTIF)
 Frequency was calculated using:
-
-`=COUNTIF(range,"Option")`
-
+=COUNTIF(range,"Option")
 Example:
-
-`=COUNTIF('Survey Data'!C2:C61,"Instagram")`
-
----
-
-### 2) Probability Calculation
+=COUNTIF('Survey Data'!C2:C61,"Instagram")
+2) Probability Calculation
 Probability was calculated using:
-
-**Probability = Frequency / Total Responses**
-
+Probability = Frequency / Total Responses
 Formula example:
-
-`=B2/SUM($B$2:$B$5)`
-
----
-
-### 3) Percentage Calculation
+=B2/SUM($B$2:$B$5)
+3) Percentage Calculation
 Percentage was calculated using:
-
-`=Probability*100`
-
-Example:
-
-`=C2*100`
-
----
-
-### 4) Conditional Probability (COUNTIFS)
+Percentage = Probability × 100
+Formula example:
+=C2*100
+4) Conditional Probability (COUNTIFS)
 Conditional probability was calculated using:
-
-`=COUNTIFS(AnswerRange,"Instagram",UsageRange,"Daily")`
-
+=COUNTIFS(AnswerRange,"Instagram",UsageRange,"Daily")
 Example:
-
-`=COUNTIFS('Survey Data'!C2:C61,"Instagram",'Survey Data'!D2:D61,"Daily")`
-
----
-
-### 5) Expected Value Prediction (Novelty Feature)
+=COUNTIFS('Survey Data'!C2:C61,"Instagram",'Survey Data'!D2:D61,"Daily")
+5) Expected Value Prediction (Novelty Feature)
 Expected value predicts expected users out of 100 respondents:
-
-**Expected Value = Probability × 100**
-
-Example:
-
-`=Probability*100`
-
----
-
-### 6) Random Simulation (Novelty Feature)
+Expected Value = Probability × 100
+Formula example:
+=Probability*100
+6) Random Simulation (Novelty Feature)
 A simulation was created using:
-
-`=INDEX({"Instagram","YouTube","TikTok","Facebook"},RANDBETWEEN(1,4))`
-
+=INDEX({"Instagram","YouTube","TikTok","Facebook"},RANDBETWEEN(1,4))
 This generates random responses and compares simulated probability distribution with real survey results.
-
----
-
-## 📈 Charts and Visualizations
+📈 Charts and Visualizations
 The following charts were created:
-- **Pie Chart** (Overall Distribution)
-- **Bar Chart** (Frequency Comparison)
-- **Daily vs Weekly Comparison Chart**
-- **Dashboard Sheet** (Final Summary)
-
----
-
-## 🏆 Key Results
-- **Most Selected App:** Instagram  
-- **Least Selected App:** Facebook  
-- **Major Trend:** Daily users show stronger preference for Instagram compared to Weekly users.
-
----
-
-## ✅ Final Conclusion
-The survey probability analysis shows that **Instagram is the most preferred social media platform** with the highest frequency and probability value.  
-**YouTube and TikTok** have moderate probabilities and remain strong competitors.  
-**Facebook has the lowest probability** and is the least preferred platform in the dataset.
-
-Conditional probability analysis confirms that **Daily users prefer Instagram more strongly** than Weekly users.  
+Pie Chart (Overall Distribution)
+Bar Chart (Frequency Comparison)
+Daily vs Weekly Comparison Chart
+Dashboard Sheet (Final Summary)
+🏆 Key Results
+Most Selected App: Instagram
+Least Selected App: Facebook
+Major Trend: Daily users show stronger preference for Instagram compared to Weekly users.
+✅ Final Conclusion
+The survey probability analysis shows that Instagram is the most preferred social media platform with the highest frequency and probability value.
+YouTube and TikTok have moderate probabilities and remain strong competitors.
+Facebook has the lowest probability and is the least preferred platform in the dataset.
+Conditional probability analysis confirms that Daily users prefer Instagram more strongly than Weekly users.
 Simulation results also support the same trend, validating the probability distribution.
-
----
-
-## 📌 Final Recommendation
-Based on probability distribution, conditional probability, and simulation results, **Instagram is recommended as the best platform for marketing, awareness campaigns, and audience engagement strategies**.
-
----
-## 📌 Project Status
-✅ Project Completed Successfully  
-✅ Final Submission Ready  
+📌 Final Recommendation
+Based on probability distribution, conditional probability, and simulation results, Instagram is recommended as the best platform for marketing, awareness campaigns, and audience engagement strategies.
+📌 Project Status
+✅ Project Completed Successfully
+✅ Final Submission Ready
