@@ -23,6 +23,11 @@ Usage Frequency: Daily / Weekly
 This dataset helps identify majority patterns and user preference trends.
 Google Spreadsheet Link
 https://docs.google.com/spreadsheets/d/1ybyK2AIHMNef2OBWUMvv2TjAmiQebutcag52lgjn1Gs/edit?usp=sharing⁠�
+## Project Files
+README.md : Project documentation
+main.py : Python implementation of survey probability analysis
+Google Spreadsheet : Data collection and analysis
+Dashboard : Visual summary of results
 📅 Daily Progress Log
 Day 1 (31-04-2026)
 Created Google Spreadsheet for project tracking.
@@ -147,6 +152,7 @@ Improved overall report formatting.
 Verified spreadsheet sharing permissions.
 Finalized README structure and project documentation.
 Day 25 (24-05-2026) [Final Project Completion]
+Python implementation of survey probability analysis.
 Finalized the complete Survey Probability Analysis project.
 Verified all formulas, charts, dashboard values, and simulation outputs.
 Confirmed probability sum = 1 and percentage sum = 100%.
