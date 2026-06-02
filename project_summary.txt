@@ -1,0 +1,26 @@
+Survey Probability Analysis Project
+
+Student Name: Yusra Jan
+
+Objective:
+To analyze preferred social media applications using probability concepts and survey data.
+
+Total Responses:
+60
+
+Methods Used:
+1. Frequency Distribution
+2. Probability Distribution
+3. Percentage Analysis
+4. Conditional Probability
+5. Expected Value Prediction
+6. Random Simulation
+
+Results:
+Instagram Frequency = 28
+YouTube Frequency = 14
+TikTok Frequency = 12
+Facebook Frequency = 6
+
+Conclusion:
+Instagram is the most preferred social media application among respondents. Facebook is the least preferred platform. Probability and simulation analysis support the same trend.
